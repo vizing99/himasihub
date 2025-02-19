@@ -1,0 +1,100 @@
+Deskripsi Lengkap Website HimasiHub
+
+HimasiHub adalah platform berbasis web yang dirancang khusus untuk mengelola dan memfasilitasi seluruh aspek organisasi Himpunan Mahasiswa
+Program Studi Sistem Informasi Universitas Jambi (HIMASI UNJA). Website ini bertujuan untuk mempermudah pengurus dan anggota dalam 
+mengelola data keanggotaan, kegiatan, keuangan, serta kepanitiaan, sekaligus meningkatkan transparansi, efisiensi, dan komunikasi dalam setiap kegiatan himpunan.
+
+Tujuan Utama Website:
+Mengelola Keanggotaan: Memudahkan pendaftaran anggota, validasi status oleh sekretaris, serta memantau riwayat keanggotaan.
+Meningkatkan Koordinasi Kepanitiaan: Memfasilitasi pembuatan kepanitiaan untuk kegiatan, serta mengatur anggota yang terlibat dalam panitia dan dokumentasi kegiatan.
+Transparansi Keuangan: Menyediakan fitur pengelolaan anggaran, pencatatan pemasukan dan pengeluaran, serta laporan keuangan yang mudah dipahami.
+Meningkatkan Partisipasi Kegiatan: Mempermudah anggota untuk mendaftar kegiatan, memberi feedback, serta memantau kegiatan yang akan datang.
+Fitur Utama Website:
+Manajemen Anggota:
+
+Pendaftaran dan Login: Proses pendaftaran anggota dengan validasi oleh sekretaris, dan login berbasis akun.
+Profil Anggota: Menyimpan informasi pribadi, seperti NIM, Program Studi, nomor telepon, alamat, dan status keanggotaan.
+Validasi Sekretaris: Sekretaris memvalidasi pendaftaran anggota baru, mengubah status keanggotaan menjadi aktif atau ditolak.
+Riwayat Keanggotaan: Mencatat riwayat kegiatan atau kepanitiaan yang diikuti oleh anggota.
+Manajemen Kepanitiaan:
+
+Pembuatan Panitia: Pengurus dapat membuat kepanitiaan untuk setiap acara atau kegiatan.
+Penugasan Anggota: Pengurus menambahkan anggota ke kepanitiaan sesuai dengan peran yang ditentukan.
+Dokumentasi dan Laporan Kegiatan: Setiap kegiatan kepanitiaan dapat didokumentasikan dan dicatat dalam laporan yang akan diakses oleh pengurus dan anggota.
+Manajemen Keuangan:
+
+Pengelolaan Anggaran: Admin dapat mengelola anggaran yang tersedia untuk setiap kegiatan.
+Pencatatan Transaksi: Pemasukan dan pengeluaran yang terkait dengan kegiatan himpunan akan dicatat dan dikelompokkan.
+Laporan Keuangan: Membuat laporan keuangan untuk melihat pemasukan dan pengeluaran, baik bulanan maupun tahunan.
+Manajemen Kegiatan:
+
+Pengajuan Kegiatan: Ketua Divisi atau pengurus mengajukan kegiatan yang akan dilaksanakan, beserta anggarannya.
+Pendaftaran Kegiatan: Anggota dapat mendaftar untuk mengikuti kegiatan tertentu, seperti seminar, pelatihan, dan acara lainnya.
+Evaluasi Kegiatan: Setelah kegiatan selesai, anggota memberikan feedback untuk evaluasi kegiatan.
+Galeri Kegiatan: Fitur untuk mengunggah link atau file dokumentasi kegiatan (misalnya, foto atau laporan).
+Fitur Tambahan:
+
+Integrasi Media Sosial: Memudahkan promosi kegiatan atau informasi terkait HIMASI UNJA melalui media sosial.
+Keamanan dan Privasi: Sistem login yang aman untuk melindungi data pribadi dan informasi sensitif.
+Pencarian dan Filter: Fitur pencarian untuk mempermudah anggota dan pengurus mencari data atau informasi terkait kegiatan, anggota, laporan, dll.
+Pengguna dan Role:
+Ketua: Memiliki akses penuh untuk mengelola kegiatan, keuangan, dan anggota. Dapat membuat keputusan strategis dan menetapkan kebijakan.
+Sekretaris (Admin): Memvalidasi pendaftaran anggota, mengelola data administrasi, dan memantau operasional harian organisasi.
+Bendahara: Bertanggung jawab atas pengelolaan keuangan, membuat laporan keuangan, dan memantau transaksi pemasukan dan pengeluaran.
+Ketua Divisi: Mengajukan kegiatan, membuat panitia, dan memantau kegiatan yang ada di divisi masing-masing.
+Pengurus: Anggota yang memiliki akses terbatas berdasarkan kebutuhan tugas mereka, seperti mengelola acara atau mendukung kepanitiaan.
+Anggota: Anggota HIMASI yang terdaftar dapat mengakses informasi kegiatan, mendaftar untuk ikut serta dalam kegiatan, serta memberikan umpan balik.
+Desain dan User Experience (UX):
+Desain Responsif:
+Website harus dapat diakses dengan nyaman di berbagai perangkat, termasuk desktop, tablet, dan smartphone. 
+Desain akan menggunakan Tailwind CSS untuk memastikan tampilan yang modern dan responsif di semua ukuran layar.
+
+Antarmuka Sederhana dan Intuitif:
+Pengguna dari berbagai latar belakang teknis harus dapat mengakses dan menggunakan fitur website dengan mudah. 
+Navigasi yang jelas dan sederhana menjadi prioritas, dengan menu yang mudah diakses dan informasi yang terorganisir.
+
+Dashboard Pengguna:
+Setiap role akan memiliki dashboard yang berbeda, menampilkan informasi yang relevan. Misalnya:
+
+Dashboard Ketua: Menampilkan statistik kegiatan, keuangan, dan laporan.
+Dashboard Sekretaris: Memungkinkan pengelolaan anggota dan validasi pendaftaran. 
+Dashboard Anggota: Menampilkan kegiatan yang tersedia untuk didaftar, serta riwayat keikutsertaan mereka.
+Pencarian dan Filter:
+Anggota dan pengurus dapat menggunakan fitur pencarian untuk menemukan kegiatan, anggota, atau laporan tertentu. 
+Filter dapat digunakan untuk menyaring kegiatan berdasarkan tanggal, jenis kegiatan, atau status kegiatan.
+
+Feedback dan Evaluasi Kegiatan:
+Setelah acara selesai, anggota dapat memberikan umpan balik atau evaluasi kegiatan melalui formulir yang terintegrasi dengan sistem. 
+Hal ini akan membantu pengurus untuk melakukan perbaikan dan meningkatkan kualitas kegiatan di masa mendatang.
+
+Integrasi Media Sosial:
+Tautan ke akun media sosial HIMASI UNJA akan ditampilkan di bagian bawah halaman utama dan kegiatan tertentu. 
+Ini memungkinkan anggota dan pengurus untuk mempromosikan acara atau berinteraksi dengan audiens di luar website.
+
+Keamanan dan Privasi:
+Setiap pengguna harus melakukan login menggunakan email dan password yang telah terdaftar. 
+Pengelolaan hak akses untuk masing-masing role akan membatasi fitur yang dapat diakses oleh pengguna.
+
+Navigasi dan Struktur Halaman:
+Halaman Utama:
+
+Navigasi utama untuk login/registrasi, informasi kegiatan terbaru, dan galeri.
+Halaman Dashboard Pengguna:
+
+Menampilkan ringkasan aktivitas (untuk pengurus) atau kegiatan yang akan datang (untuk anggota).
+Halaman Kegiatan:
+
+Daftar kegiatan yang tersedia, dengan opsi untuk mendaftar atau melihat detail lebih lanjut.
+Halaman Keuangan:
+
+Menampilkan laporan keuangan HIMASI UNJA dan rincian anggaran.
+Halaman Pengelolaan Anggota dan Panitia:
+
+Untuk pengurus dan sekretaris, memungkinkan mereka untuk melihat, memvalidasi, dan mengelola data anggota serta kepanitiaan.
+Halaman Evaluasi dan Feedback:
+
+Anggota dapat memberikan umpan balik setelah acara atau kegiatan selesai.
+Kesimpulan:
+HimasiHub akan menjadi platform yang memudahkan pengelolaan administrasi HIMASI UNJA, memberikan pengalaman yang lebih baik bagi setiap pengurus dan 
+anggota dalam berinteraksi dengan sistem. Desain website yang responsif, navigasi yang intuitif, dan fitur yang lengkap akan meningkatkan efisiensi operasional dan
+meningkatkan keterlibatan anggota dalam setiap kegiatan yang dilaksanakan.
